@@ -32,3 +32,24 @@ body {
      position: absolute;
      z-index: -1;	
 }
+
+.project p {
+     font-weight: bold;
+     margin-left: 10px;
+}
+
+.jumbotron h1 {
+     font-style: italic;
+}
+
+h4 {
+     font-variant: small-caps;
+}
+/*
+.project {
+     margin-left: 20px;
+     padding: 20px;
+     background-color: #E3FAFF;
+     width: 525px;
+}
+*/
